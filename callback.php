@@ -1,5 +1,5 @@
 <?php
-
+// f8b37652-4c12-4b64-8936-67097298f11b <-- authKey
 $params = $_GET;
 $response = array(
   'ok' => false
